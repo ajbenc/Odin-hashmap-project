@@ -1,0 +1,26 @@
+{
+  "name": "hashmap-project",
+  "version": "1.0.0",
+  "description": "A JavaScript implementation of a hashmap data structure",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ajbenc",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ajbenc/Odin-hashmap-project.git"
+  },
+  "keywords": ["hashmap", "data structure", "javascript"],
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
